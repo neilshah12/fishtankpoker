@@ -1,0 +1,1 @@
+Implementing a python API which implements all of the poker logic for later use in the web development segment.
